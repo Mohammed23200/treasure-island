@@ -36,16 +36,16 @@ python tearsure.py
 - Game logic and flow control
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/yourusername/treasure-island)
+- [GitHub Repository]https://github.com/Mohammed23200/treasure-island
 - [100 Days of Code Course](https://www.udemy.com/course/100-days-of-code/)
 
 ## 👨‍💻 Author
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Mohammed23200
+- LinkedIn: https://www.linkedin.com/in/mohammed-gamal-4012122b5/
 
 ## 📝 License
 This project is part of the "100 Days of Code" challenge by Dr. Angela Yu.
 
 ---
-⭐️ From [Your Name](https://github.com/yourusername) 
+⭐️ From [Mohammed Gamal (JImmy master )](https://github.com/Mohammed23200) 
